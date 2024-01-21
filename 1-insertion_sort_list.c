@@ -24,7 +24,7 @@ void insertion_sort_list(listint_t **list)
 }
 /**
  *swap_node - swap nodes in a listint_t doubly-linked list
- *@node: node list 
+ *@node: node list
  *@list: node list of integer
  *Return: return pointer to current node
  */
